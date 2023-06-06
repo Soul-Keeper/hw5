@@ -1,0 +1,1076 @@
+,Unnamed: 0.1,Unnamed: 0,label,youtube_id,time_start,time_end,split,num_label
+0,0,9489,tap dancing,0HWhcKnIrqs,0,10,train,13
+1,1,363182,tap dancing,g9yiiJSTo1g,124,134,train,13
+2,2,72653,tap dancing,8VOYMj8YL3A,68,78,train,13
+3,3,137877,tap dancing,GdRPgfwJPj4,22,32,train,13
+4,4,418710,tap dancing,mewyOb6i6UU,2,12,train,13
+5,5,360875,tap dancing,fvRXfUZdXCU,214,224,train,13
+6,6,516759,tap dancing,y0euefPsWUU,163,173,train,13
+7,7,375813,tap dancing,hgSFgkH4lNA,202,212,train,13
+8,8,150518,tap dancing,I7CICNYETpk,13,23,train,13
+9,9,267726,tap dancing,VYGzwqq5Eis,48,58,train,13
+10,10,132760,tap dancing,G2OTEM23vHo,130,140,train,13
+11,11,178752,tap dancing,LNaoXd_PoS4,157,167,train,13
+12,12,334902,tap dancing,ciRlMTeJzMY,60,70,train,13
+13,13,167924,tap dancing,K92eFkVaqL0,63,73,train,13
+14,14,148195,tap dancing,Hq0zh3EnRgI,161,171,train,13
+15,15,131605,tap dancing,FucKgm2RBLY,28,38,train,13
+16,16,254587,tap dancing,U22qY7dT2y4,0,10,train,13
+17,17,517994,tap dancing,y8htxy0Ergc,105,115,train,13
+18,18,53728,tap dancing,65NoT-J7UM4,97,107,train,13
+19,19,39885,tap dancing,4GzoY8x9lOI,8,18,train,13
+20,20,31892,tap dancing,3E08PoeXkF4,6,16,train,13
+21,21,168155,tap dancing,KAUWckpY56c,0,10,train,13
+22,22,390010,tap dancing,jKortXcVeFI,186,196,train,13
+23,23,412699,tap dancing,m02GgS7w7QA,40,50,train,13
+24,24,367600,tap dancing,ghwWs2mBIXk,12,22,train,13
+25,25,21404,tap dancing,1rxpVuUORA0,29,39,train,13
+26,26,19178,tap dancing,1_IZlvdSwfQ,52,62,train,13
+27,27,224747,tap dancing,Qc-v0JtQnHs,86,96,train,13
+28,28,103892,tap dancing,CUpPjM1SfB8,60,70,train,13
+29,29,213009,tap dancing,PH7Wr4qSxVM,35,45,train,13
+30,30,338760,tap dancing,dCD2pw8llH0,2,12,train,13
+31,31,102751,tap dancing,CJy8FSv8qHo,18,28,train,13
+32,32,22247,tap dancing,2-7mzQNH-70,67,77,train,13
+33,33,390922,tap dancing,jSXxkx883KU,12,22,train,13
+34,34,46563,tap dancing,5AAYAhVcZNM,61,71,train,13
+35,35,114333,tap dancing,Do5Wp5HDrUg,106,116,train,13
+36,36,35021,tap dancing,3dgg5f9CyP4,81,91,train,13
+37,37,290050,tap dancing,YCIFZdQwT1s,55,65,train,13
+38,38,112520,tap dancing,Dac91FrjgbE,102,112,train,13
+39,39,102499,tap dancing,CHw9K88zD_0,1,11,train,13
+40,40,326235,tap dancing,bcGw4X3yDYg,0,10,train,13
+41,41,514139,tap dancing,xg7fASHagQQ,12,22,train,13
+42,42,505385,tap dancing,we_XCWFqaq0,64,74,train,13
+43,43,399136,tap dancing,kOlEnYC60r0,141,151,train,13
+44,44,100379,tap dancing,C2ZrTcbF1gw,18,28,train,13
+45,45,359782,tap dancing,flOBv4GUH7k,4,14,train,13
+46,46,120903,tap dancing,EbOMWbLx05I,24,34,train,13
+47,47,18546,tap dancing,1UHpOrualJc,54,64,train,13
+48,48,220281,tap dancing,Q78zQuQ9oeg,34,44,train,13
+49,49,361017,tap dancing,fwcyokn4Sf0,1,11,train,13
+50,50,220668,tap dancing,Q9F-cB3OkUM,3,13,train,13
+51,51,396922,tap dancing,k9edXWpg64E,38,48,train,13
+52,52,113545,tap dancing,DhfuISigeRc,26,36,train,13
+53,53,100789,tap dancing,C5B8EOICUsM,1,11,train,13
+54,54,34514,tap dancing,3_iJ_IKSo-Q,7,17,train,13
+55,55,399760,tap dancing,kUpb9xe8wG0,26,36,train,13
+56,56,277475,tap dancing,WhqmGTZqbp4,23,33,train,13
+57,57,711,tap dancing,-4r6VLqGeK4,106,116,train,13
+58,58,444242,tap dancing,pZXIhL-dFb4,90,100,train,13
+59,59,316654,tap dancing,aM6BWOh8Yr8,8,18,train,13
+60,60,388138,tap dancing,j8IT6xN6D8g,43,53,train,13
+61,61,147616,tap dancing,HleXg6SMizw,100,110,train,13
+62,62,363786,tap dancing,gDutd27GbwA,15,25,train,13
+63,63,16238,tap dancing,1BDY88KMJDE,2,12,train,13
+64,64,340885,tap dancing,dUGLVppUz_s,2,12,train,13
+65,65,197997,tap dancing,Nc2adTOW2JI,5,15,train,13
+66,66,402538,tap dancing,kozTk5WfUso,0,10,train,13
+67,67,492654,tap dancing,v8RnsmdzGVs,86,96,train,13
+68,68,494664,tap dancing,vMNDwsYLKEE,9,19,train,13
+69,69,38076,tap dancing,42lG2Grg_Ug,38,48,train,13
+70,70,159276,tap dancing,J8_1OkQSs8c,11,21,train,13
+71,71,125040,tap dancing,F6BwH7rjj_o,101,111,train,13
+72,72,9426,tap dancing,0H37S12sCXM,480,490,train,13
+73,73,70183,tap dancing,8Bom4rUIhzo,43,53,train,13
+74,74,148469,tap dancing,HsfRQ3o1SaA,11,21,train,13
+75,75,306666,tap dancing,_CthN2rThFQ,8,18,train,13
+76,76,181575,tap dancing,LiktBMeHS7I,7,17,train,13
+77,77,126166,tap dancing,FCsTSMnr6Og,77,87,train,13
+78,78,57679,tap dancing,6ax7EAGFVAg,12,22,train,13
+79,79,95303,tap dancing,BN-dhgHRkKw,94,104,train,13
+80,80,371571,tap dancing,hBhPWthdM-E,59,69,train,13
+81,81,525838,square dancing,z6SChT006Qc,408,418,train,10
+82,82,330938,square dancing,cBgBI7sAQxI,133,143,train,10
+83,83,309178,square dancing,_Tz0rYQ1aTA,15,25,train,10
+84,84,155501,square dancing,IgcV9kb-cAE,14,24,train,10
+85,85,189747,square dancing,MeN9Rb3Ad2Y,169,179,train,10
+86,86,151602,square dancing,IE3i3Hm-ebs,0,10,train,10
+87,87,73613,square dancing,8ccliwIePKw,40,50,train,10
+88,88,277517,square dancing,Wi4oYdJrKwg,60,70,train,10
+89,89,90132,square dancing,Ai1VVHtEaTg,97,107,train,10
+90,90,404160,square dancing,l10NeYSxx5I,385,395,train,10
+91,91,13339,square dancing,0niDQCNL_rc,64,74,train,10
+92,92,177348,square dancing,LDtJu0cSIDo,205,215,train,10
+93,93,132211,square dancing,G-9IKhYQnes,213,223,train,10
+94,94,248269,square dancing,TGgl6Mfdj9w,263,273,train,10
+95,95,309120,square dancing,_TbfE0qnG60,11,21,train,10
+96,96,143665,square dancing,HHbENvBX3Rs,173,183,train,10
+97,97,173205,square dancing,KllLybWGGjY,222,232,train,10
+98,98,302200,square dancing,ZfqC8uVfCUo,103,113,train,10
+99,99,15127,square dancing,128_gPLKIp4,0,10,train,10
+100,100,293230,square dancing,YbGEgtV-yrY,10,20,train,10
+101,101,498681,square dancing,vrQWGm_ma6g,305,315,train,10
+102,102,94129,square dancing,BDcK29-AZzI,13,23,train,10
+103,103,283069,square dancing,XMm17h-zcXI,114,124,train,10
+104,104,150279,square dancing,I5qJcBvwLbE,0,10,train,10
+105,105,146462,square dancing,HdY0AMuGXC4,197,207,train,10
+106,106,21775,square dancing,1vdEB6RdFpA,145,155,train,10
+107,107,81532,square dancing,9bp_dpKatFo,128,138,train,10
+108,108,386897,square dancing,j0YpU0PNzI4,57,67,train,10
+109,109,442898,square dancing,pNdk8T27uzA,181,191,train,10
+110,110,433967,square dancing,oOPwFV7Yh6E,500,510,train,10
+111,111,159359,square dancing,J976GUwHsUk,0,10,train,10
+112,112,406133,square dancing,lDDHdBpBOR4,131,141,train,10
+113,113,273301,square dancing,WCEqNkSK68w,103,113,train,10
+114,114,432428,square dancing,oDXm1zk7ve8,69,79,train,10
+115,115,441248,square dancing,pCAtLMKe4nE,431,441,train,10
+116,116,451551,square dancing,qM4n4GV7CqM,152,162,train,10
+117,117,98738,square dancing,BosaEyoMRKc,204,214,train,10
+118,118,444876,square dancing,pd2DrBJcIu8,14,24,train,10
+119,119,323585,square dancing,bG9JJY6j3dc,0,10,train,10
+120,120,207934,square dancing,Oj02hSB4zoU,61,71,train,10
+121,121,524801,square dancing,z-iTi66DSs8,44,54,train,10
+122,122,404204,square dancing,l1KJ0b-UcTw,100,110,train,10
+123,123,330362,square dancing,c7SZGzrRWak,185,195,train,10
+124,124,296293,square dancing,Z-AMYNN-boA,126,136,train,10
+125,125,65678,square dancing,7c0EySEabK8,109,119,train,10
+126,126,374973,square dancing,hbR2_daqHrk,42,52,train,10
+127,127,273562,square dancing,WDlrGAbS3Xc,7,17,train,10
+128,128,320035,square dancing,anykkspbwSY,134,144,train,10
+129,129,515328,square dancing,xpZXNSJ6ltw,340,350,train,10
+130,130,239812,square dancing,SIW0r1yx1cU,18,28,train,10
+131,131,209594,square dancing,OweSfwLhqn8,93,103,train,10
+132,132,113169,square dancing,Df2SwsuWnok,130,140,train,10
+133,133,344638,square dancing,dz_glBaxMbc,0,10,train,10
+134,134,320201,square dancing,apoQ1UDvP1c,38,48,train,10
+135,135,288792,square dancing,Y4-tbNN3znc,68,78,train,10
+136,136,229084,square dancing,R6J7Wcaegxo,221,231,train,10
+137,137,102602,square dancing,CIhIAXy0nwk,153,163,train,10
+138,138,110504,square dancing,DKTkmd0W0us,2,12,train,10
+139,139,56170,square dancing,6Oz4BUXcPLA,119,129,train,10
+140,140,209189,square dancing,Ot3D5mcY084,0,10,train,10
+141,141,442170,square dancing,pIBt_E0VHkI,94,104,train,10
+142,142,511981,square dancing,xPGOsdWMmik,15,25,train,10
+143,143,342973,square dancing,dkZ8A_WUNFE,28,38,train,10
+144,144,387383,square dancing,j3kcM7xJ4SM,107,117,train,10
+145,145,193264,square dancing,N4_W7KkwaH0,92,102,train,10
+146,146,323274,square dancing,bDbg2V5I-4c,32,42,train,10
+147,147,474850,square dancing,t2gSRBG9BOc,5,15,train,10
+148,148,457506,square dancing,r4Az3fBkSQQ,118,128,train,10
+149,149,20876,square dancing,1no7xi4j0Lo,188,198,train,10
+150,150,97304,square dancing,Be0a9mxGf-Y,82,92,train,10
+151,151,459616,square dancing,rGz4KzZ5O-I,27,37,train,10
+152,152,113849,square dancing,DjncK1eg8VI,34,44,train,10
+153,153,13711,square dancing,0r4juSA0CJc,65,75,train,10
+154,154,394345,square dancing,js33hzAZ_94,472,482,train,10
+155,155,143237,square dancing,HEqkghdVOpI,42,52,train,10
+156,156,177634,square dancing,LFfIQJ8Albk,211,221,train,10
+157,157,312,square dancing,-1TmA7jvoBQ,136,146,train,10
+158,158,438216,square dancing,otZqGPHlKsI,0,10,train,10
+159,159,314379,square dancing,a3aHTKUq4dA,208,218,train,10
+160,160,367217,square dancing,gfZXfIOmEuE,135,145,train,10
+161,161,43798,square dancing,4nzp3ToF-3Y,302,312,train,10
+162,162,204359,square dancing,OIdASNHvHBk,37,47,train,10
+163,163,210314,square dancing,P0w6oYfymxQ,421,431,train,10
+164,164,493789,square dancing,vFn5HmsRHE4,228,238,train,10
+165,165,181263,square dancing,Lggqrw9ViXc,0,10,train,10
+166,166,201167,square dancing,O-5Ycq2j1OI,57,67,train,10
+167,167,406429,square dancing,lF5wbJFl33k,62,72,train,10
+168,168,493562,square dancing,vEJirIXZS7g,168,178,train,10
+169,169,127647,square dancing,FOMZftl4gy4,202,212,train,10
+170,170,182543,square dancing,LqgqBqb5A6s,79,89,train,10
+171,171,245749,square dancing,T0rnYwg12tA,10,20,train,10
+172,172,522194,square dancing,yex3F-bd754,196,206,train,10
+173,173,380947,square dancing,iHh61Q2Ebz4,40,50,train,10
+174,174,463506,square dancing,rinEHh4FLhY,115,125,train,10
+175,175,102679,square dancing,CJRRFLVxYPs,70,80,train,10
+176,176,418835,dancing macarena,mfgnSepPXdk,148,158,train,5
+177,177,386628,dancing macarena,izwJdwMWldk,48,58,train,5
+178,178,441690,dancing macarena,pEzlS6uuU98,6,16,train,5
+179,179,344700,dancing macarena,e-4VWesLIOc,3,13,train,5
+180,180,206491,dancing macarena,O_tKDekDp64,30,40,train,5
+181,181,354620,dancing macarena,f8rMuSj-idA,1,11,train,5
+182,182,268585,dancing macarena,VdojfCMCJVc,2,12,train,5
+183,183,126691,dancing macarena,FGNr---Om2w,61,71,train,5
+184,184,25802,dancing macarena,2R_c2qayqfQ,7,17,train,5
+185,185,143430,dancing macarena,HG0dJrF97fQ,66,76,train,5
+186,186,506409,dancing macarena,wmHxjqX--94,9,19,train,5
+187,187,491198,dancing macarena,v-36ZVHE2nI,16,26,train,5
+188,188,367956,dancing macarena,gkfGY2OMT1Y,21,31,train,5
+189,189,20339,dancing macarena,1jCGSI96EjQ,46,56,train,5
+190,190,457037,dancing macarena,r1QSFW2rA2Q,0,10,train,5
+191,191,191707,dancing macarena,Mu7PEDwYqK0,13,23,train,5
+192,192,377787,dancing macarena,hxdd3ArN3Ho,33,43,train,5
+193,193,145417,dancing macarena,HWK-geu2VNQ,80,90,train,5
+194,194,399206,dancing macarena,kPQgw3KipyQ,4,14,train,5
+195,195,429773,dancing macarena,nx_N0Zwsarw,0,10,train,5
+196,196,308887,dancing macarena,_S5vixAvzCc,8,18,train,5
+197,197,424237,dancing macarena,nGIOeep4y-0,46,56,train,5
+198,198,207881,dancing macarena,OifL78EPnr4,12,22,train,5
+199,199,237864,dancing macarena,S5zuyqaezJ4,24,34,train,5
+200,200,266367,dancing macarena,VMNH92eFwE0,8,18,train,5
+201,201,518464,dancing macarena,yBptRMqwk98,141,151,train,5
+202,202,476539,dancing macarena,tCW0P09sOS0,0,10,train,5
+203,203,376742,dancing macarena,hndL6S2b2vM,157,167,train,5
+204,204,444698,dancing macarena,pbqwqUvyY88,57,67,train,5
+205,205,86668,dancing macarena,AFOA-p3S0gI,34,44,train,5
+206,206,304768,dancing macarena,_0FzC_3HtN4,78,88,train,5
+207,207,422507,dancing macarena,n5WZIwEfygc,53,63,train,5
+208,208,469825,dancing macarena,sSEUa2TugpI,4,14,train,5
+209,209,220334,dancing macarena,Q7V5iCf0OLY,14,24,train,5
+210,210,101018,dancing macarena,C6mlCH4Mdr8,1,11,train,5
+211,211,344816,dancing macarena,e-k3WgmpMNg,12,22,train,5
+212,212,460927,dancing macarena,rQa3FwGH8J0,21,31,train,5
+213,213,255852,dancing macarena,U9cqdcfrYCA,0,10,train,5
+214,214,91431,dancing macarena,AtfhXFkwVA4,21,31,train,5
+215,215,441501,dancing macarena,pDknL_QYXMk,4,14,train,5
+216,216,210292,dancing macarena,P0l9xTExx3g,56,66,train,5
+217,217,368606,dancing macarena,gpsp89dlZbw,14,24,train,5
+218,218,223333,dancing macarena,QSR8AGR71Iw,37,47,train,5
+219,219,196569,dancing macarena,NR8iH2VnKuE,14,24,train,5
+220,220,353044,dancing macarena,f-Kndeb4lVA,53,63,train,5
+221,221,430526,dancing macarena,o1qj3CqZH4g,22,32,train,5
+222,222,473379,dancing macarena,srxqCLiyTnQ,8,18,train,5
+223,223,257111,dancing macarena,UHomZv4r8Z8,1,11,train,5
+224,224,64233,dancing macarena,7QQDOAdKDKg,81,91,train,5
+225,225,441763,dancing macarena,pFSOXogYcKM,176,186,train,5
+226,226,227994,dancing macarena,R-gtDq_VIX4,78,88,train,5
+227,227,361158,dancing macarena,fxzjkTggP7c,0,10,train,5
+228,228,519593,dancing macarena,yJhvongcUkU,0,10,train,5
+229,229,203295,dancing macarena,OBqnQnMMHVw,12,22,train,5
+230,230,320205,dancing macarena,aptQj59d4OI,1,11,train,5
+231,231,363951,dancing macarena,gF2wgS29HKk,3,13,train,5
+232,232,155938,dancing macarena,Ijwj1Oaa5aA,13,23,train,5
+233,233,90267,dancing macarena,AjF8_liV24g,156,166,train,5
+234,234,409846,dancing macarena,leaPq1kuf9o,74,84,train,5
+235,235,110816,dancing macarena,DMjBxYLZbrw,6,16,train,5
+236,236,19816,dancing macarena,1etxBg1tLic,2,12,train,5
+237,237,221448,dancing macarena,QE0rv91x7_s,7,17,train,5
+238,238,319638,dancing macarena,akce9tO9LwY,187,197,train,5
+239,239,519027,dancing macarena,yFzbVUBq1J8,41,51,train,5
+240,240,409769,dancing macarena,le67Vp330GU,0,10,train,5
+241,241,7150,dancing macarena,-ysjvl5YaKQ,2,12,train,5
+242,242,507080,dancing macarena,ws9y6yI1HKk,25,35,train,5
+243,243,467921,dancing macarena,sE9dF7qSOqY,8,18,train,5
+244,244,160034,dancing macarena,JD7_xBaHRHo,40,50,train,5
+245,245,213796,dancing macarena,PMTclqfIMSA,56,66,train,5
+246,246,338463,dancing macarena,dAGC9diRohE,144,154,train,5
+247,247,110069,dancing macarena,DGn9DUbRQsc,0,10,train,5
+248,248,194095,dancing macarena,N9Ppl6cQ7dM,44,54,train,5
+249,249,160452,dancing macarena,JFcaypO667w,137,147,train,5
+250,250,67564,dancing macarena,7rjMCXlJ8XA,5,15,train,5
+251,251,432144,dancing macarena,oBp2p3pf58I,0,10,train,5
+252,252,255477,jumpstyle dancing,U79VcoVEaTM,37,47,train,6
+253,253,220934,jumpstyle dancing,QAso9ki6KQ8,24,34,train,6
+254,254,267169,jumpstyle dancing,VTCAy59Buno,11,21,train,6
+255,255,493290,jumpstyle dancing,vCTdEKNgevE,0,10,train,6
+256,256,413242,jumpstyle dancing,m3AwZlCglQ0,34,44,train,6
+257,257,223715,jumpstyle dancing,QVql5chWfJI,60,70,train,6
+258,258,35766,jumpstyle dancing,3jvYy0rrGRI,54,64,train,6
+259,259,117932,jumpstyle dancing,EEIG1O7DYSY,49,59,train,6
+260,260,210621,jumpstyle dancing,P2mWrWYAI-g,78,88,train,6
+261,261,328791,jumpstyle dancing,bxPpsXd8nvk,234,244,train,6
+262,262,9051,jumpstyle dancing,0DyCWmkJScs,3,13,train,6
+263,263,210757,jumpstyle dancing,P3cEx2Lijqc,68,78,train,6
+264,264,427506,jumpstyle dancing,nekcD5Rl8rs,7,17,train,6
+265,265,328158,jumpstyle dancing,brpsJtI5AeM,42,52,train,6
+266,266,400759,jumpstyle dancing,kc7ZPUkQXUg,0,10,train,6
+267,267,398653,jumpstyle dancing,kL-F2Hpl8uw,13,23,train,6
+268,268,467162,jumpstyle dancing,s9LgKmSYL2g,29,39,train,6
+269,269,142049,jumpstyle dancing,H7W3exRCc-k,20,30,train,6
+270,270,32844,jumpstyle dancing,3MMtfJX4OqA,95,105,train,6
+271,271,36045,jumpstyle dancing,3mIEXG0npRM,14,24,train,6
+272,272,47975,jumpstyle dancing,5LHvYx57XN8,0,10,train,6
+273,273,325943,jumpstyle dancing,b_uetsxKmX4,8,18,train,6
+274,274,405685,jumpstyle dancing,lAMbjdEvgmM,11,21,train,6
+275,275,69064,jumpstyle dancing,82wlFbprf-c,6,16,train,6
+276,276,471250,jumpstyle dancing,scSnfujKQy8,17,27,train,6
+277,277,458688,jumpstyle dancing,rBLQ8DPocZo,116,126,train,6
+278,278,210147,jumpstyle dancing,P-uAvq8wvLg,10,20,train,6
+279,279,396936,jumpstyle dancing,k9l0L86n_R0,67,77,train,6
+280,280,84765,jumpstyle dancing,A0BYr2ko_W0,26,36,train,6
+281,281,504368,jumpstyle dancing,wYA7C8syl2E,1,11,train,6
+282,282,65921,jumpstyle dancing,7e5_1ue_0-8,103,113,train,6
+283,283,10825,jumpstyle dancing,0TB0YYbJiMM,2,12,train,6
+284,284,420750,jumpstyle dancing,mtnSAphbuYw,287,297,train,6
+285,285,17933,jumpstyle dancing,1OieYK3ieno,27,37,train,6
+286,286,393806,jumpstyle dancing,jnsgpaMZpOE,73,83,train,6
+287,287,371263,jumpstyle dancing,h9WX-XCfIeQ,8,18,train,6
+288,288,344688,jumpstyle dancing,e-0QnILa7AA,42,52,train,6
+289,289,190010,jumpstyle dancing,MgMEZuCTsMo,144,154,train,6
+290,290,467253,jumpstyle dancing,s9zveOB8apU,29,39,train,6
+291,291,327825,jumpstyle dancing,bpCGOG9kUbc,86,96,train,6
+292,292,200504,jumpstyle dancing,Nu-tyP1gwqQ,31,41,train,6
+293,293,22487,jumpstyle dancing,20tIPYA74Eg,186,196,train,6
+294,294,5276,jumpstyle dancing,-iCkcQcXhl8,33,43,train,6
+295,295,253202,jumpstyle dancing,TsEJWJtkfq8,185,195,train,6
+296,296,317803,jumpstyle dancing,aWniKPMunZg,50,60,train,6
+297,297,175413,jumpstyle dancing,L2PyLm860oE,12,22,train,6
+298,298,117209,jumpstyle dancing,E9QX2iYGgNc,58,68,train,6
+299,299,89714,jumpstyle dancing,AenYNvXlPDc,79,89,train,6
+300,300,82332,jumpstyle dancing,9hvH6SqC1EA,0,10,train,6
+301,301,441250,jumpstyle dancing,pCC1hkM7vIo,10,20,train,6
+302,302,166383,jumpstyle dancing,K-Ip9H84gD0,49,59,train,6
+303,303,479891,jumpstyle dancing,tcGV2k_LvzQ,8,18,train,6
+304,304,129278,jumpstyle dancing,FblC9HfFmq0,13,23,train,6
+305,305,5389,jumpstyle dancing,-j7KbbDG2uo,27,37,train,6
+306,306,454506,jumpstyle dancing,qi4kfLkxqn0,30,40,train,6
+307,307,398757,jumpstyle dancing,kLpwsAxUEZg,31,41,train,6
+308,308,240079,jumpstyle dancing,SKKrGB_WLsE,206,216,train,6
+309,309,211172,jumpstyle dancing,P60C9A9dum0,53,63,train,6
+310,310,186350,jumpstyle dancing,MFYucXEuCXU,15,25,train,6
+311,311,254103,jumpstyle dancing,U-KORfoCVqk,34,44,train,6
+312,312,216761,jumpstyle dancing,Pi-mVMglVNE,1,11,train,6
+313,313,475576,jumpstyle dancing,t6zs8aEXjks,126,136,train,6
+314,314,220043,jumpstyle dancing,Q5jafGpTl58,23,33,train,6
+315,315,10735,jumpstyle dancing,0SOq4wSdiNo,75,85,train,6
+316,316,23496,jumpstyle dancing,28v4fJ5hs-I,170,180,train,6
+317,317,72071,jumpstyle dancing,8Ql8_vZRq7k,17,27,train,6
+318,318,432898,jumpstyle dancing,oGKH2A4ePnk,1,11,train,6
+319,319,496940,jumpstyle dancing,ve2t8CfvFPw,7,17,train,6
+320,320,414213,jumpstyle dancing,m97lWFPoMiw,14,24,train,6
+321,321,264871,jumpstyle dancing,VCCyLD7hJ0s,71,81,train,6
+322,322,298149,jumpstyle dancing,ZB8Auf7puK0,12,22,train,6
+323,323,146757,jumpstyle dancing,HfNf8w78kB8,22,32,train,6
+324,324,521274,jumpstyle dancing,yZHOOjxcR8M,31,41,train,6
+325,325,427338,jumpstyle dancing,ndsaqt2rNGA,32,42,train,6
+326,326,93528,jumpstyle dancing,B9If-H-K8Y0,47,57,train,6
+327,327,119561,jumpstyle dancing,EQFsxIk6g-s,12,22,train,6
+328,328,184114,jumpstyle dancing,M2nHeEXw2Ew,40,50,train,6
+329,329,477932,jumpstyle dancing,tMkk-YCTZFs,61,71,train,6
+330,330,322759,jumpstyle dancing,b9kxj4Q9sZM,153,163,train,6
+331,331,333576,jumpstyle dancing,cZLS5L5d8u4,6,16,train,6
+332,332,520135,tango dancing,yOI0m-Lhqyg,79,89,train,12
+333,333,92732,tango dancing,B3N6vtiT0Hw,81,91,train,12
+334,334,343612,tango dancing,dpstrOggCpU,35,45,train,12
+335,335,89699,tango dancing,AekG0x3olg0,0,10,train,12
+336,336,494243,tango dancing,vIvKZnwStAI,73,83,train,12
+337,337,430518,tango dancing,o1nKBeQhQM8,2,12,train,12
+338,338,37752,tango dancing,40GilqvZ0g4,67,77,train,12
+339,339,472896,tango dancing,snhFzDAMZU4,21,31,train,12
+340,340,519938,tango dancing,yMPEFAsqElc,104,114,train,12
+341,341,468743,tango dancing,sJhS2TkQWpQ,0,10,train,12
+342,342,368276,tango dancing,gn1Bmvu2LAM,117,127,train,12
+343,343,525346,tango dancing,z3GvArq4Zzs,80,90,train,12
+344,344,179395,tango dancing,LT-e_wj6d9w,12,22,train,12
+345,345,432200,tango dancing,oC8nH9-3qC0,86,96,train,12
+346,346,519886,tango dancing,yM1VIGGyOtQ,14,24,train,12
+347,347,518551,tango dancing,yCUdINb-Sg0,36,46,train,12
+348,348,157062,tango dancing,ItThtBxtY4o,18,28,train,12
+349,349,36528,tango dancing,3qBn0wYOoCw,186,196,train,12
+350,350,492537,tango dancing,v7kD4IzjFbI,159,169,train,12
+351,351,225507,tango dancing,Qgl3Eat9DrI,3,13,train,12
+352,352,41947,tango dancing,4YznxmqRH4A,16,26,train,12
+353,353,80741,tango dancing,9W0ewH9zq88,5,15,train,12
+354,354,3959,tango dancing,-XWNL3WxzaI,6,16,train,12
+355,355,276114,tango dancing,WZ7EVLPZNYs,167,177,train,12
+356,356,36524,tango dancing,3qBZbhvNDZc,157,167,train,12
+357,357,66421,tango dancing,7iJ-FjAR7W4,64,74,train,12
+358,358,380432,tango dancing,iE09r9o8Ct0,53,63,train,12
+359,359,93461,tango dancing,B8q4os7Au8M,65,75,train,12
+360,360,485395,tango dancing,uFl7xZxBb_8,2,12,train,12
+361,361,497014,tango dancing,veakPcBT78s,45,55,train,12
+362,362,63763,tango dancing,7MeJyqC2kz0,149,159,train,12
+363,363,445425,tango dancing,pge1Gb8q7So,0,10,train,12
+364,364,184624,tango dancing,M5UJ6fjX1FU,231,241,train,12
+365,365,184087,tango dancing,M2Z3uFzoSBA,13,23,train,12
+366,366,404923,tango dancing,l5WHssl1QrA,4,14,train,12
+367,367,267125,tango dancing,VStOE59Qz-Y,95,105,train,12
+368,368,94463,tango dancing,BGJw-UnMV44,290,300,train,12
+369,369,161100,tango dancing,JKBPG80Nwm8,21,31,train,12
+370,370,292521,tango dancing,YWD4hWsiRQ4,40,50,train,12
+371,371,436354,tango dancing,ofkvAUJ7pno,97,107,train,12
+372,372,188535,tango dancing,MWhFvK4-yQM,71,81,train,12
+373,373,274846,tango dancing,WNJhuHMS5mQ,339,349,train,12
+374,374,96071,tango dancing,BTrJOhrguBU,8,18,train,12
+375,375,273670,tango dancing,WEZ3xYAcK4o,75,85,train,12
+376,376,144584,tango dancing,HOkx8-vTKLU,46,56,train,12
+377,377,326343,tango dancing,bcyeAWh2x6A,6,16,train,12
+378,378,300581,tango dancing,ZTACAngMXWY,0,10,train,12
+379,379,70890,tango dancing,8HHao9TM3dA,150,160,train,12
+380,380,96388,tango dancing,BX2Wx8CsqjQ,41,51,train,12
+381,381,2570,tango dancing,-L1EgBsU3Tk,111,121,train,12
+382,382,316596,tango dancing,aLVj1OTn0Bw,100,110,train,12
+383,383,286540,tango dancing,XmhCR8l-oko,30,40,train,12
+384,384,67758,tango dancing,7t9SFobTgUc,28,38,train,12
+385,385,78134,tango dancing,9BHCqLDBh5U,3,13,train,12
+386,386,124691,tango dancing,F3yxznXZlN8,131,141,train,12
+387,387,391060,tango dancing,jTxTfCXTZNY,0,10,train,12
+388,388,517198,tango dancing,y3r5i5B7NCU,1,11,train,12
+389,389,174150,tango dancing,Kt_kVUxUh2c,7,17,train,12
+390,390,266559,tango dancing,VO3YkpFrTbE,54,64,train,12
+391,391,511323,tango dancing,xJv07RG-__M,153,163,train,12
+392,392,134815,tango dancing,GFszICCdK20,114,124,train,12
+393,393,317797,tango dancing,aWmocWSwI9o,129,139,train,12
+394,394,186202,tango dancing,MEgMsDsPlxA,4,14,train,12
+395,395,77845,tango dancing,99AFnQDnHk4,26,36,train,12
+396,396,201783,tango dancing,O2av5SKKFfk,100,110,train,12
+397,397,311105,tango dancing,_h67yu0hpRg,109,119,train,12
+398,398,350335,tango dancing,edncgqdLwq0,100,110,train,12
+399,399,399291,country line dancing,kQGPH6_M3n4,2,12,train,1
+400,400,263590,country line dancing,V4LgcxsZtXE,164,174,train,1
+401,401,141027,country line dancing,H0iu2857_PM,25,35,train,1
+402,402,62152,country line dancing,79mTKtGNvD8,52,62,train,1
+403,403,24012,country line dancing,2DNG46ZD9Ss,123,133,train,1
+404,404,361597,country line dancing,g0AmzoZYSq0,67,77,train,1
+405,405,245559,country line dancing,T-WxDFZn9pE,7,17,train,1
+406,406,304827,country line dancing,_0hmyfiUh1U,40,50,train,1
+407,407,200787,country line dancing,NwU6ocopKNA,29,39,train,1
+408,408,235574,country line dancing,Rqd-381neJo,62,72,train,1
+409,409,158788,country line dancing,J5Xi2g4atmU,7,17,train,1
+410,410,531093,country line dancing,zkBFhxUVpHM,127,137,train,1
+411,411,374325,country line dancing,hXekQ438A3g,58,68,train,1
+412,412,128298,country line dancing,FUCuJVsVNgo,104,114,train,1
+413,413,398063,country line dancing,kGvNaR8YJec,41,51,train,1
+414,414,177335,country line dancing,LDmh6BpG4NY,2,12,train,1
+415,415,158295,country line dancing,J2PIfUpzg4s,76,86,train,1
+416,416,252454,country line dancing,Tm15UEHILzo,91,101,train,1
+417,417,92001,country line dancing,AzFSI5gPZz0,61,71,train,1
+418,418,121820,country line dancing,EhcAs7-maIk,5,15,train,1
+419,419,196955,country line dancing,NUZ_5ttOTaY,10,20,train,1
+420,420,226637,country line dancing,QouK6kQ0mAQ,63,73,train,1
+421,421,136172,country line dancing,GQVOeaGT6YQ,64,74,train,1
+422,422,415277,country line dancing,mFXexq98mA4,10,20,train,1
+423,423,442470,country line dancing,pKS3wL0zfD4,41,51,train,1
+424,424,305518,country line dancing,_58ZbYOw9P0,101,111,train,1
+425,425,21391,country line dancing,1rsLh2kG96A,106,116,train,1
+426,426,337823,country line dancing,d5w4vZVqh4E,99,109,train,1
+427,427,406495,country line dancing,lFeAeSsG_IY,122,132,train,1
+428,428,495941,country line dancing,vX8v5zW2xR0,60,70,train,1
+429,429,210966,country line dancing,P4o9BgSopRY,62,72,train,1
+430,430,22938,country line dancing,24U3teH3aHY,3,13,train,1
+431,431,89444,country line dancing,AcwIWGIKl6M,77,87,train,1
+432,432,470700,country line dancing,s_-k8DYaMY0,68,78,train,1
+433,433,60210,country line dancing,6vQsXtDVCjE,51,61,train,1
+434,434,331145,country line dancing,cDAjHsGnNlk,162,172,train,1
+435,435,227716,country line dancing,QyGeVDdfz1M,176,186,train,1
+436,436,448777,country line dancing,q4X0GX9NQpw,187,197,train,1
+437,437,292995,country line dancing,Y_zsIGRzuLo,15,25,train,1
+438,438,414737,country line dancing,mCG_KG5PLIw,55,65,train,1
+439,439,504875,country line dancing,wbKjO1vY8y8,96,106,train,1
+440,440,143592,country line dancing,HH8nDeK3JHA,29,39,train,1
+441,441,506342,country line dancing,wlk_yaH-Apc,38,48,train,1
+442,442,446530,country line dancing,pogbPJz6lZ0,258,268,train,1
+443,443,312342,country line dancing,_pTshGENNOE,56,66,train,1
+444,444,156967,country line dancing,IsSFpqGr8Wg,118,128,train,1
+445,445,268114,country line dancing,VaeLV6-iRls,0,10,train,1
+446,446,324240,country line dancing,bLd4lncS4xA,172,182,train,1
+447,447,427881,country line dancing,nhDtFIhnwJ0,149,159,train,1
+448,448,504934,country line dancing,wbqD_clYXzM,18,28,train,1
+449,449,242826,country line dancing,Ses1Lb8wztw,25,35,train,1
+450,450,130371,country line dancing,FjRUDlBr3fY,64,74,train,1
+451,451,101416,country line dancing,C9g1gkxhmuU,46,56,train,1
+452,452,142500,country line dancing,HAIQePM0j74,5,15,train,1
+453,453,261169,country line dancing,UmE_cJ4tjpo,9,19,train,1
+454,454,464265,country line dancing,rp-Sdh7bpNo,58,68,train,1
+455,455,361303,country line dancing,fzEVidSkYC0,15,25,train,1
+456,456,51550,country line dancing,5nxc-wwYvfY,43,53,train,1
+457,457,459897,country line dancing,rImmua-8eUw,126,136,train,1
+458,458,529964,country line dancing,zc9R1ZwLxg4,9,19,train,1
+459,459,433853,country line dancing,oNZM5S2Rz6I,10,20,train,1
+460,460,90447,country line dancing,AkmYGAYfaMo,19,29,train,1
+461,461,321745,country line dancing,b2-j3We5lG0,113,123,train,1
+462,462,489233,country line dancing,uj35TB4WiGM,34,44,train,1
+463,463,284389,country line dancing,XY7FSzrbfHY,127,137,train,1
+464,464,113465,country line dancing,DgyFQiKi9B4,0,10,train,1
+465,465,322041,country line dancing,b3vrIy1aSlo,14,24,train,1
+466,466,453851,robot dancing,qdeDHscOSsk,7,17,train,8
+467,467,135150,robot dancing,GI9RsG0XnOY,0,10,train,8
+468,468,410968,robot dancing,lmWfOPv5inw,126,136,train,8
+469,469,355229,robot dancing,fChR1to4cJ4,3,13,train,8
+470,470,423734,robot dancing,nD8TEW5Kix4,18,28,train,8
+471,471,306960,robot dancing,_Epug2zZW2Q,30,40,train,8
+472,472,237264,robot dancing,S2MMA83GSZM,126,136,train,8
+473,473,199662,robot dancing,Nn_3o9pY-i4,127,137,train,8
+474,474,389741,robot dancing,jIg7EEqo65s,0,10,train,8
+475,475,694,robot dancing,-4hbj9ZTCIc,20,30,train,8
+476,476,48481,robot dancing,5PTzWpA34Sw,19,29,train,8
+477,477,74117,robot dancing,8g_JQmJfyJk,78,88,train,8
+478,478,59497,robot dancing,6pO2Vsnmhc8,51,61,train,8
+479,479,468313,robot dancing,sGnpnbsIC30,46,56,train,8
+480,480,436333,robot dancing,ofe9B9GEQZU,0,10,train,8
+481,481,335591,robot dancing,cnnKEsVnuAQ,4,14,train,8
+482,482,147718,robot dancing,HmNj7yrUON8,51,61,train,8
+483,483,51188,robot dancing,5kt1aweIr-A,59,69,train,8
+484,484,436440,robot dancing,ogHPY1_KDbg,13,23,train,8
+485,485,88131,robot dancing,ASXyOpjC7tk,130,140,train,8
+486,486,270186,robot dancing,VqB4HBSTxiw,65,75,train,8
+487,487,63342,robot dancing,7JQf-75K8FI,0,10,train,8
+488,488,205053,robot dancing,ONvjWJSpUPQ,58,68,train,8
+489,489,260685,robot dancing,UiLzPWBsvxM,28,38,train,8
+490,490,178167,robot dancing,LJEbtvZ13Us,30,40,train,8
+491,491,456216,robot dancing,qw6ljudEmoE,32,42,train,8
+492,492,276448,robot dancing,WaxNUBHJlQM,18,28,train,8
+493,493,253033,robot dancing,TqkwAG9QbE0,13,23,train,8
+494,494,341728,robot dancing,dbWdBz2x54A,3,13,train,8
+495,495,49117,robot dancing,5UxGLFJsinY,0,10,train,8
+496,496,8274,robot dancing,07bAsAux0y0,69,79,train,8
+497,497,168051,robot dancing,K9oY7H2ecJw,2,12,train,8
+498,498,276589,robot dancing,Wbln5b7aJe8,263,273,train,8
+499,499,391325,robot dancing,jWLdSXSVex4,1,11,train,8
+500,500,45315,robot dancing,50SE1a0cGoQ,2,12,train,8
+501,501,100581,robot dancing,C3p52kGC_YY,106,116,train,8
+502,502,53278,robot dancing,61cHpch8EBA,152,162,train,8
+503,503,131995,robot dancing,FySUxCGGVq0,171,181,train,8
+504,504,457835,robot dancing,r6D_jow8ZnY,2,12,train,8
+505,505,283697,robot dancing,XSB-sMWCpAE,55,65,train,8
+506,506,416697,robot dancing,mQVqGzDcYdI,22,32,train,8
+507,507,54990,robot dancing,6FVIbeoLE8w,19,29,train,8
+508,508,518019,robot dancing,y8ty_CQ431k,177,187,train,8
+509,509,507194,robot dancing,wtFitJIIEvk,0,10,train,8
+510,510,180969,robot dancing,LebYFzruSKE,81,91,train,8
+511,511,471020,robot dancing,sb2f0HL2hOg,11,21,train,8
+512,512,394481,robot dancing,jtGkfFYYK2Q,29,39,train,8
+513,513,269290,robot dancing,Vj409oPgc8Y,2,12,train,8
+514,514,63525,robot dancing,7L-qp5sZ1gY,120,130,train,8
+515,515,103774,robot dancing,CTQZ_ZznNJs,74,84,train,8
+516,516,470930,robot dancing,sa_GSwNpC7c,18,28,train,8
+517,517,354229,robot dancing,f6obVb0LK18,12,22,train,8
+518,518,124165,robot dancing,F0fcb-OD9rA,29,39,train,8
+519,519,324353,robot dancing,bMatG6n1N4k,3,13,train,8
+520,520,499425,robot dancing,vyvVarzWNCY,3,13,train,8
+521,521,522327,robot dancing,yfmKCROEX60,17,27,train,8
+522,522,151645,robot dancing,IESnHjSXMwA,16,26,train,8
+523,523,327582,robot dancing,bn-L-5V99Og,96,106,train,8
+524,524,333423,robot dancing,cXmMsqpGQps,21,31,train,8
+525,525,156577,robot dancing,Ip5U3Fc12mQ,6,16,train,8
+526,526,73729,robot dancing,8dQF5jMoqoQ,41,51,train,8
+527,527,295924,robot dancing,Ywfp88yUsgs,45,55,train,8
+528,528,314201,robot dancing,a2Ez9Bk8bh4,33,43,train,8
+529,529,459191,robot dancing,rEMAZ8lPDKk,10,20,train,8
+530,530,530536,robot dancing,zfolz6jqKMY,2,12,train,8
+531,531,267817,robot dancing,VZ4klelfCm4,36,46,train,8
+532,532,261773,robot dancing,UrM-DZGr-bs,0,10,train,8
+533,533,401713,robot dancing,kibK8zNtKPs,197,207,train,8
+534,534,240062,robot dancing,SKB0jCRhGGA,0,10,train,8
+535,535,13354,robot dancing,0nqdLrsDfGw,155,165,train,8
+536,536,354252,robot dancing,f6uGg3_cIG8,4,14,train,8
+537,537,300408,robot dancing,ZRcjgP9By1M,1,11,train,8
+538,538,473878,robot dancing,swSqjtxpoA4,26,36,train,8
+539,539,289629,robot dancing,Y9K_ZXfPZ1s,2,12,train,8
+540,540,198127,robot dancing,Ncwy-k2N6Jo,68,78,train,8
+541,541,122628,robot dancing,EoGOyY4gWr0,24,34,train,8
+542,542,320350,robot dancing,ar5Uk_Jq398,23,33,train,8
+543,543,501996,robot dancing,wFJYegzW1_I,3,13,train,8
+544,544,62063,robot dancing,79ECX_oY6cM,7,17,train,8
+545,545,108923,robot dancing,D8W42r_g9I4,29,39,train,8
+546,546,288503,robot dancing,Y25O0uf1-Jc,68,78,train,8
+547,547,208005,robot dancing,OjazVdxz2n0,70,80,train,8
+548,548,239863,robot dancing,SInYWcvAkQ0,463,473,train,8
+549,549,78295,robot dancing,9CXjcCTrrzE,4,14,train,8
+550,550,177581,robot dancing,LFMBzsegnNk,44,54,train,8
+551,551,325734,robot dancing,bYtULhDpuKY,1,11,train,8
+552,552,111147,swing dancing,DPmVi35kSDU,1,11,train,11
+553,553,281323,swing dancing,X9zMOVnZmN0,48,58,train,11
+554,554,174784,swing dancing,KzN-rTrG_h4,54,64,train,11
+555,555,244233,swing dancing,Sop_d4K0QAU,9,19,train,11
+556,556,292529,swing dancing,YWEfSvG2dvE,131,141,train,11
+557,557,220157,swing dancing,Q6QfNd28dxU,98,108,train,11
+558,558,351679,swing dancing,entSFuVs0lA,73,83,train,11
+559,559,494396,swing dancing,vK2VSFHemxs,70,80,train,11
+560,560,167214,swing dancing,K4kUEm9WRjM,7,17,train,11
+561,561,95987,swing dancing,BTE51bzFOrk,190,200,train,11
+562,562,290208,swing dancing,YDJ03cVn1rs,1397,1407,train,11
+563,563,388837,swing dancing,jCUJIRjRXeo,0,7,train,11
+564,564,7929,swing dancing,04t-dJeO9S0,4,14,train,11
+565,565,511333,swing dancing,xJwvQ7pHBLA,24,34,train,11
+566,566,445778,swing dancing,piqS_GMvgv8,0,10,train,11
+567,567,279801,swing dancing,X0PW8VC9x6s,17,27,train,11
+568,568,275341,swing dancing,WRrenacBKSE,256,266,train,11
+569,569,491280,swing dancing,v-dIToUPOk0,384,394,train,11
+570,570,174755,swing dancing,Kz8_lfqp6Bk,107,117,train,11
+571,571,137506,swing dancing,Gb5DkNf0a50,29,39,train,11
+572,572,485730,swing dancing,uHvnCm5MQfU,24,34,train,11
+573,573,502141,swing dancing,wGL4kyDII-k,0,10,train,11
+574,574,408252,swing dancing,lTAQ5_KFpbQ,78,88,train,11
+575,575,521458,swing dancing,ya0Ab4_iBPY,154,164,train,11
+576,576,407684,swing dancing,lOmoWvZiJ4E,47,57,train,11
+577,577,263261,swing dancing,V2JQwN4-cPM,35,45,train,11
+578,578,291719,swing dancing,YOVKSrhwLpw,275,285,train,11
+579,579,514023,swing dancing,xfJdPVYR5n4,6,16,train,11
+580,580,265442,swing dancing,VFk7KFPsyW0,43,53,train,11
+581,581,107180,swing dancing,Cwiy89AP4Zc,113,123,train,11
+582,582,385982,swing dancing,itwG-a1wvMQ,115,125,train,11
+583,583,312126,swing dancing,_nyIhYUrdUQ,1881,1891,train,11
+584,584,310076,swing dancing,_aBtMfwdnXQ,9,19,train,11
+585,585,321785,swing dancing,b2BfqYWocZY,22,32,train,11
+586,586,200622,swing dancing,Nv0w7RpYpII,45,55,train,11
+587,587,300891,swing dancing,ZW3kvAftSAs,118,128,train,11
+588,588,398585,swing dancing,kKOykgWaHj0,158,168,train,11
+589,589,40823,swing dancing,4OgG86jxLR8,161,171,train,11
+590,590,190244,swing dancing,MhrOTNQlsgM,101,111,train,11
+591,591,368494,swing dancing,gp0H12aPzNs,55,65,train,11
+592,592,195347,swing dancing,NHi4yelpEo4,10,20,train,11
+593,593,390812,swing dancing,jRVxtI4mRck,245,255,train,11
+594,594,47759,swing dancing,5JaymyY0nWc,17,27,train,11
+595,595,304748,swing dancing,_0AAPQNKkko,70,80,train,11
+596,596,20880,swing dancing,1npAipma_Eg,6,16,train,11
+597,597,25678,swing dancing,2QQs7D45Y_4,203,213,train,11
+598,598,290470,swing dancing,YF0TrfEFr9Q,46,56,train,11
+599,599,427179,swing dancing,nct8mb_XoPc,32,42,train,11
+600,600,522758,swing dancing,yillocFZBhA,0,10,train,11
+601,601,505682,swing dancing,wgglaGqgkVo,174,184,train,11
+602,602,264093,swing dancing,V7UHgYDwg24,7,17,train,11
+603,603,499297,swing dancing,vxgvUXAvq-M,3,13,train,11
+604,604,452355,swing dancing,qTAwGXRHNVM,254,264,train,11
+605,605,144465,swing dancing,HNjC4zXMy1w,15,25,train,11
+606,606,413442,swing dancing,m4JJ03ZCA84,5,15,train,11
+607,607,101912,swing dancing,CDOxtJeZNKs,28,38,train,11
+608,608,96450,swing dancing,BXfzQhfIhuw,43,53,train,11
+609,609,393162,swing dancing,jj9OwO7soz4,7,17,train,11
+610,610,348239,swing dancing,eNUTIiayQEI,60,70,train,11
+611,611,176583,swing dancing,L9DmpQLd3JY,32,42,train,11
+612,612,43698,swing dancing,4n6-FJFQkGA,27,37,train,11
+613,613,420520,swing dancing,mrr4QQh9IFc,57,67,train,11
+614,614,345622,swing dancing,e59jfEesdWc,29,39,train,11
+615,615,13876,swing dancing,0sSEhBCxXLM,99,109,train,11
+616,616,40574,swing dancing,4Mdhd6ptZJc,20,30,train,11
+617,617,493628,swing dancing,vEhOKGrj_58,4,14,train,11
+618,618,433306,swing dancing,oJ4Zz_j3zhA,0,10,train,11
+619,619,312391,swing dancing,_ppHJwt4rOg,134,144,train,11
+620,620,175476,swing dancing,L2j3197HyTc,51,61,train,11
+621,621,432024,swing dancing,oB5zvrDKtd4,154,164,train,11
+622,622,477346,swing dancing,tI4qO5Y9M1Q,29,39,train,11
+623,623,53569,swing dancing,63vz24agPyU,278,288,train,11
+624,624,254937,swing dancing,U49-BtnkOZ4,8,18,train,11
+625,625,195491,dancing charleston,NI_0WXHwqqY,19,29,train,3
+626,626,144729,dancing charleston,HQFmnv2gQw4,13,23,train,3
+627,627,84489,dancing charleston,9z4_1xysWPk,47,57,train,3
+628,628,69727,dancing charleston,88FxoBbj9vQ,27,37,train,3
+629,629,292415,dancing charleston,YV1dBQv-j_M,17,27,train,3
+630,630,172874,dancing charleston,Kj6kH0OGCUg,8,18,train,3
+631,631,413391,dancing charleston,m4-HYngAXDE,0,10,train,3
+632,632,35359,dancing charleston,3ggzu2NcNVw,28,38,train,3
+633,633,291677,dancing charleston,YO7PlPa6rvc,44,54,train,3
+634,634,191885,dancing charleston,MvcrbUzdnL8,111,121,train,3
+635,635,507471,dancing charleston,wvZ5t72bXCw,40,50,train,3
+636,636,488576,dancing charleston,ueIGkXR23Mk,179,189,train,3
+637,637,257217,dancing charleston,UIeHDLt7ZR0,149,159,train,3
+638,638,415383,dancing charleston,mGC7ZUv_CRQ,235,245,train,3
+639,639,182761,dancing charleston,LseoAchTP0o,69,79,train,3
+640,640,518614,dancing charleston,yD0ph8UOFcE,6,16,train,3
+641,641,106741,dancing charleston,CsJJoi7gEn8,254,264,train,3
+642,642,500235,dancing charleston,w43sbWkG1vE,0,10,train,3
+643,643,427044,dancing charleston,nc62NjoUAeg,13,23,train,3
+644,644,13298,dancing charleston,0nMb-fRkFIo,32,42,train,3
+645,645,180774,dancing charleston,LdHvcC7leeg,1,11,train,3
+646,646,201568,dancing charleston,O1R_DxkYxXo,8,18,train,3
+647,647,198857,dancing charleston,Nhfy3l6Evq8,36,46,train,3
+648,648,194355,dancing charleston,NB8Q-9tmy-0,13,23,train,3
+649,649,300502,dancing charleston,ZSShBjM7mKI,0,10,train,3
+650,650,16599,dancing charleston,1E839z6wNFY,87,97,train,3
+651,651,478134,dancing charleston,tOBUQNX1Rh4,1,11,train,3
+652,652,90112,dancing charleston,AhvZFmLDJNE,32,42,train,3
+653,653,3506,dancing charleston,-SsRQe7_4ao,113,123,train,3
+654,654,442959,dancing charleston,pO2ElQGht-Q,99,109,train,3
+655,655,310390,dancing charleston,_cOIM49dB3w,72,82,train,3
+656,656,387163,dancing charleston,j2L0NX7OEyM,23,33,train,3
+657,657,69586,dancing charleston,87AwBr9JGjU,8,18,train,3
+658,658,528349,dancing charleston,zO_XRch2fbQ,105,115,train,3
+659,659,255965,dancing charleston,UANYQpAA768,68,78,train,3
+660,660,206243,dancing charleston,OYbL-AVgUgA,15,25,train,3
+661,661,251898,dancing charleston,TiEbc-8QSrE,38,48,train,3
+662,662,422553,dancing charleston,n5ohB8NoZEE,46,56,train,3
+663,663,508068,dancing charleston,x-a-rAgj1xA,47,57,train,3
+664,664,80707,dancing charleston,9Vi-G83ya-Q,45,55,train,3
+665,665,486501,dancing charleston,uNw_1-k4m0c,0,10,train,3
+666,666,72622,dancing charleston,8V5BeZO3IhQ,32,42,train,3
+667,667,458204,dancing charleston,r8Qgp3LYlQo,26,36,train,3
+668,668,506532,dancing charleston,wnKK8sG-97I,0,10,train,3
+669,669,167208,dancing charleston,K4jfmKtcoxI,40,50,train,3
+670,670,434234,dancing charleston,oQPFszwNYyU,109,119,train,3
+671,671,213753,dancing charleston,PM8a3EWmCCQ,3,13,train,3
+672,672,353124,dancing charleston,f-yaM4k6jRE,82,92,train,3
+673,673,68456,dancing charleston,7zgnKnj-PIc,26,36,train,3
+674,674,235009,dancing charleston,RmI0KDYgoxo,55,65,train,3
+675,675,413317,dancing charleston,m3ec8_a80_M,97,107,train,3
+676,676,280059,dancing charleston,X1sKPsiqI8A,168,178,train,3
+677,677,348435,dancing charleston,eP-v32An2BE,0,10,train,3
+678,678,192720,dancing charleston,N13I2JzlcQM,110,120,train,3
+679,679,465976,dancing charleston,s1wD62REesc,88,98,train,3
+680,680,112734,dancing charleston,Dbz9x4FohZQ,29,39,train,3
+681,681,320138,dancing charleston,ap3c9h-RgmM,78,88,train,3
+682,682,262295,dancing charleston,Uvz_EqmnZqM,156,166,train,3
+683,683,30084,dancing charleston,30NCKTBajOg,7,17,train,3
+684,684,197041,dancing charleston,NVPIFhA3ESc,49,59,train,3
+685,685,55744,dancing charleston,6LF2M5TQe9Q,36,46,train,3
+686,686,309692,dancing charleston,_XmoMM34WCk,30,40,train,3
+687,687,9178,dancing charleston,0F-yMf2F_6A,32,42,train,3
+688,688,163561,dancing charleston,JdKvk8-s7mI,123,133,train,3
+689,689,411889,dancing charleston,lu1wXK_UMGY,22,32,train,3
+690,690,490614,dancing charleston,uuXE3MYEJpA,17,27,train,3
+691,691,406337,dancing charleston,lESa9CjAiIE,4,14,train,3
+692,692,293267,dancing charleston,YbQSw0akqaw,47,57,train,3
+693,693,3403,dancing charleston,-Rpdgk9keZU,31,41,train,3
+694,694,142284,dancing charleston,H92fbbmioIU,342,352,train,3
+695,695,502256,dancing charleston,wH8KwImbJAo,67,77,train,3
+696,696,210576,dancing charleston,P2Yl4_37LHU,17,27,train,3
+697,697,159339,dancing charleston,J8xpij9PT7o,20,30,train,3
+698,698,31410,dancing charleston,3AKoOjk0X0k,32,42,train,3
+699,699,187770,dancing charleston,MPsXgOzyG0I,64,74,train,3
+700,700,89996,dancing charleston,AgvT7Hq_tfU,28,38,train,3
+701,701,173517,dancing charleston,Kod7w5Uz5pU,16,26,train,3
+702,702,467240,dancing charleston,s9rcheMwvrA,130,140,train,3
+703,703,513085,dancing charleston,xZfOvGXYgn8,91,101,train,3
+704,704,153938,dancing charleston,IVzLEVuBL64,1,11,train,3
+705,705,226342,dancing gangnam style,QmhpG1rU3kY,7,17,train,4
+706,706,333589,dancing gangnam style,cZScKPVqJ6Q,35,45,train,4
+707,707,459418,dancing gangnam style,rFmmvWZKgdc,195,205,train,4
+708,708,124949,dancing gangnam style,F5dbAGOOpo4,4,14,train,4
+709,709,506074,dancing gangnam style,wjcvyZXjpoI,25,35,train,4
+710,710,139516,dancing gangnam style,Gp3K-wdy0vA,109,119,train,4
+711,711,254409,dancing gangnam style,U1-7nByKrxE,211,221,train,4
+712,712,329525,dancing gangnam style,c1wIMHSMtVk,82,92,train,4
+713,713,408523,dancing gangnam style,lVcL6NnQzuo,40,50,train,4
+714,714,171385,dancing gangnam style,K_JQ59V7wuY,190,200,train,4
+715,715,120070,dancing gangnam style,EVF7EYdWPJ0,8,18,train,4
+716,716,504252,dancing gangnam style,wX6bc4lklJI,65,75,train,4
+717,717,325907,dancing gangnam style,b_VNe2WlODQ,10,20,train,4
+718,718,508632,dancing gangnam style,x2yeuBDHW4U,13,23,train,4
+719,719,52633,dancing gangnam style,5x3CC9ZBcWE,34,44,train,4
+720,720,493291,dancing gangnam style,vCTh3WUClyQ,0,10,train,4
+721,721,47510,dancing gangnam style,5H_0KecbfCk,2,12,train,4
+722,722,109012,dancing gangnam style,D92s0TVLUG0,123,133,train,4
+723,723,504478,dancing gangnam style,wZMi90YYYOc,75,85,train,4
+724,724,443436,dancing gangnam style,pSQjH-Ouc10,0,10,train,4
+725,725,120158,dancing gangnam style,EW3Ivz3E8E4,9,19,train,4
+726,726,237834,dancing gangnam style,S5rM8iidCLs,12,22,train,4
+727,727,4558,dancing gangnam style,-cIPyFZRweI,3,13,train,4
+728,728,42211,dancing gangnam style,4aeCTg5V_zg,73,83,train,4
+729,729,5680,dancing gangnam style,-l8VHbAWlYE,90,100,train,4
+730,730,31575,dancing gangnam style,3BbTrEIpXb0,190,200,train,4
+731,731,145290,dancing gangnam style,HVDqvx_40jE,39,49,train,4
+732,732,48703,dancing gangnam style,5RS-M63Pcsw,5,15,train,4
+733,733,427159,dancing gangnam style,nckd4Qf4Sg0,74,84,train,4
+734,734,101839,dancing gangnam style,CCj37Buzf3A,15,25,train,4
+735,735,96714,dancing gangnam style,B_Qd1F-hCDk,11,21,train,4
+736,736,477456,dancing gangnam style,tItKa1l1gp8,0,10,train,4
+737,737,355183,dancing gangnam style,fCNzCoIrcnc,23,33,train,4
+738,738,358708,dancing gangnam style,fdPo86agIbg,34,44,train,4
+739,739,139423,dancing gangnam style,GoV_BZ5UfY0,0,10,train,4
+740,740,367272,dancing gangnam style,gg-W65j4P-g,1,11,train,4
+741,741,149997,dancing gangnam style,I3mCPaErOWI,56,66,train,4
+742,742,424090,dancing gangnam style,nFDaBY6ZgFI,135,145,train,4
+743,743,290054,dancing gangnam style,YCNTu_soumo,5,15,train,4
+744,744,157257,dancing gangnam style,Iv73uiZ-yS4,18,28,train,4
+745,745,249971,dancing gangnam style,TVN0bf-0054,5,15,train,4
+746,746,30830,dancing gangnam style,35jka-joLJE,8,18,train,4
+747,747,455266,dancing gangnam style,qo3VKMRsqVA,7,17,train,4
+748,748,61697,dancing gangnam style,76hkwwGVHSk,59,69,train,4
+749,749,427634,dancing gangnam style,nfVKwtqy1Ro,84,94,train,4
+750,750,264553,dancing gangnam style,VANSaTch7q4,12,22,train,4
+751,751,355420,dancing gangnam style,fDwjmO4C6RM,99,109,train,4
+752,752,339395,dancing gangnam style,dGwdwDAbGA4,2,12,train,4
+753,753,234370,dancing gangnam style,RhU6MRxOE3M,19,29,train,4
+754,754,285645,dancing gangnam style,Xg2Y3Ha2DoU,6,16,train,4
+755,755,406370,dancing gangnam style,lEh-tga-1kE,8,18,train,4
+756,756,342484,dancing gangnam style,dgn4T-aIxTs,37,47,train,4
+757,757,133697,dancing gangnam style,G8os8GeaX2k,53,63,train,4
+758,758,48847,dancing gangnam style,5SdpDBc2TMc,28,38,train,4
+759,759,376123,dancing gangnam style,hiaKcu7em-g,30,40,train,4
+760,760,190543,dancing gangnam style,Mk1eU3fzmig,21,31,train,4
+761,761,408036,dancing gangnam style,lRQzbPqBCDo,30,40,train,4
+762,762,477859,dancing gangnam style,tMHmxJrwS2U,76,86,train,4
+763,763,246251,dancing gangnam style,T48BkljSUH8,52,62,train,4
+764,764,365535,dancing gangnam style,gS6MqxxWdZ8,48,58,train,4
+765,765,264997,dancing gangnam style,VCunj-2w0k0,38,48,train,4
+766,766,239243,dancing gangnam style,SEhzbxLxIsU,14,24,train,4
+767,767,265833,dancing gangnam style,VISmD1cx6Pw,45,55,train,4
+768,768,38925,dancing gangnam style,49E7vzR0O-M,156,166,train,4
+769,769,360356,dancing gangnam style,fqLNkXgj0i4,2,12,train,4
+770,770,11936,dancing gangnam style,0cRSaP17TDU,25,35,train,4
+771,771,363089,dancing gangnam style,g9The-jgwLc,9,19,train,4
+772,772,348005,dancing gangnam style,eLWV2Ls4rJI,203,213,train,4
+773,773,63648,belly dancing,7Ls7f6peCE8,47,57,train,0
+774,774,368630,belly dancing,gq4YXUfj_cc,114,124,train,0
+775,775,293044,belly dancing,YaH0J7GzMfU,214,224,train,0
+776,776,471945,belly dancing,sgriQeC2AMM,3,13,train,0
+777,777,201157,belly dancing,O-1qWr9joCU,4,14,train,0
+778,778,380802,belly dancing,iGSTqvputf8,212,222,train,0
+779,779,296359,belly dancing,Z-cpsrDpld0,439,449,train,0
+780,780,150264,belly dancing,I5i6wbqjOkc,132,142,train,0
+781,781,271526,belly dancing,W0p0jltDCDo,106,116,train,0
+782,782,470510,belly dancing,sYFZMzONJ1Y,41,51,train,0
+783,783,474577,belly dancing,t0x2ScRxaT8,301,311,train,0
+784,784,298289,belly dancing,ZBj3guTpfLU,63,73,train,0
+785,785,494466,belly dancing,vKjgKN76_h4,53,63,train,0
+786,786,318562,belly dancing,abz-e6Xki4Y,10,20,train,0
+787,787,285675,belly dancing,XgFx2cN_4h8,380,390,train,0
+788,788,519182,belly dancing,yH2N1d4UqTc,91,101,train,0
+789,789,399729,belly dancing,kUSMlgMDQ3Q,138,148,train,0
+790,790,9145,belly dancing,0EkDMT2U9W4,44,54,train,0
+791,791,319287,belly dancing,ahNK9nFYFiY,77,87,train,0
+792,792,467868,belly dancing,sDoyNq2VhXo,185,195,train,0
+793,793,123671,belly dancing,ExtinnT7gqU,33,43,train,0
+794,794,253044,belly dancing,TqpW4J2umwY,31,41,train,0
+795,795,136869,belly dancing,GWgRXpDPu4I,211,221,train,0
+796,796,420422,belly dancing,mqwA_RgA3e8,2,12,train,0
+797,797,430265,belly dancing,o0IQZMiBjyE,25,35,train,0
+798,798,143633,belly dancing,HHSAfXPxKTc,238,248,train,0
+799,799,181943,belly dancing,LlfzIIkPhR0,157,167,train,0
+800,800,316625,belly dancing,aLrZ2Q1mzuU,52,62,train,0
+801,801,178398,belly dancing,LL2btIJiT8g,77,87,train,0
+802,802,48289,belly dancing,5NyQwK8Dl4c,121,131,train,0
+803,803,25607,belly dancing,2PriYL5zjnE,42,52,train,0
+804,804,208482,belly dancing,OnZVAVHv7uM,129,139,train,0
+805,805,532187,belly dancing,zt7XHcgHdEc,275,285,train,0
+806,806,88235,belly dancing,ATReTb-b2T0,232,242,train,0
+807,807,484910,belly dancing,uCizVblk2oI,5,15,train,0
+808,808,400379,belly dancing,k_XdLNHx48I,74,84,train,0
+809,809,187021,belly dancing,MK-cv2fijmo,52,62,train,0
+810,810,342063,belly dancing,ddnBBUi3tww,118,128,train,0
+811,811,515208,belly dancing,xo_4zLNAKoE,89,99,train,0
+812,812,167893,belly dancing,K8qNvSQR0xo,187,197,train,0
+813,813,341229,belly dancing,dXrLBp5mWWM,8,18,train,0
+814,814,219094,belly dancing,Q-_zyiJ8zV8,56,66,train,0
+815,815,1088,belly dancing,-7tDxxH2g6I,16,26,train,0
+816,816,422719,belly dancing,n6jfpP99W_Q,130,140,train,0
+817,817,326268,belly dancing,bcSnJdSkOnY,135,145,train,0
+818,818,146188,belly dancing,Hba1JmPN6zo,23,33,train,0
+819,819,176474,belly dancing,L8bDovw-q1s,264,274,train,0
+820,820,459789,belly dancing,rHybsurI0fc,218,228,train,0
+821,821,60662,belly dancing,6zGBNgtKyCE,4,14,train,0
+822,822,308517,belly dancing,_PKeYxWH8QY,71,81,train,0
+823,823,114597,belly dancing,Dqd2Azck4ik,184,194,train,0
+824,824,481729,belly dancing,tqR7FzEb3VE,14,24,train,0
+825,825,38322,belly dancing,44c3O_SqRT4,38,48,train,0
+826,826,358153,belly dancing,f_ac1P10sGE,521,531,train,0
+827,827,88496,belly dancing,AVbdiD7D1r8,80,90,train,0
+828,828,183564,belly dancing,M-KPZebDAlY,77,87,train,0
+829,829,338698,belly dancing,dBncb92rz70,328,338,train,0
+830,830,150341,belly dancing,I6FEZp35CuE,94,104,train,0
+831,831,355989,belly dancing,fHreXo2NfVk,4,14,train,0
+832,832,500595,belly dancing,w6Db70rfiZw,0,10,train,0
+833,833,271133,belly dancing,VyvKWeMFnYU,112,122,train,0
+834,834,429749,belly dancing,nxLIf6t2pGg,266,276,train,0
+835,835,189075,belly dancing,MaCRVkSCcgc,177,187,train,0
+836,836,376028,belly dancing,hhy7u5-3aZc,4,14,train,0
+837,837,196016,belly dancing,NMQ4qSwH6SI,45,55,train,0
+838,838,296192,belly dancing,YzEauRbjBuA,64,74,train,0
+839,839,38250,belly dancing,446LR2V-JH8,208,218,train,0
+840,840,25550,belly dancing,2PM9jMPwH8o,1,11,train,0
+841,841,475572,belly dancing,t6ymA0XXi1k,25,35,train,0
+842,842,520983,belly dancing,yWkfVxYQNvE,113,123,train,0
+843,843,313210,belly dancing,_vkn3bvdmQ8,76,86,train,0
+844,844,267732,belly dancing,VYKkuWx7HQ8,38,48,train,0
+845,845,290314,belly dancing,YE-PPxh7LB8,475,485,train,0
+846,846,148979,belly dancing,HwuvOQ_O8ec,32,42,train,0
+847,847,454802,belly dancing,qkBG42i4BV8,108,118,train,0
+848,848,316528,dancing ballet,aKpL5RtYH-0,68,78,train,2
+849,849,531793,dancing ballet,zpgEQQNBx8Y,609,619,train,2
+850,850,140560,dancing ballet,GyRjLzbpn9g,10,20,train,2
+851,851,363105,dancing ballet,g9YY51X9NcY,363,373,train,2
+852,852,78237,dancing ballet,9Bz__rupAt8,729,739,train,2
+853,853,152681,dancing ballet,ILzIFjBc7SY,26,36,train,2
+854,854,66775,dancing ballet,7l4X0dHeowA,111,121,train,2
+855,855,138590,dancing ballet,GhuczqjDN0w,204,214,train,2
+856,856,27894,dancing ballet,2id-Jg5RjEE,323,333,train,2
+857,857,315713,dancing ballet,aDpIv4RCDgc,72,82,train,2
+858,858,24855,dancing ballet,2JW5PxNWxnw,23,33,train,2
+859,859,505731,dancing ballet,wh2pUuhAroA,3,13,train,2
+860,860,506066,dancing ballet,wjZIhO98Hdo,285,295,train,2
+861,861,233255,dancing ballet,Ra_wdynM7Lk,90,100,train,2
+862,862,293048,dancing ballet,YaHNXBAjbEg,145,155,train,2
+863,863,168817,dancing ballet,KF8M3wI_9mg,72,82,train,2
+864,864,337996,dancing ballet,d6ywO7YD-Zk,51,61,train,2
+865,865,272721,dancing ballet,W8V8jcxueTM,75,85,train,2
+866,866,497646,dancing ballet,vigtkxgsn-w,63,73,train,2
+867,867,319438,dancing ballet,aiqTOTKO2Lc,22,32,train,2
+868,868,447337,dancing ballet,pvUgFyrsf_8,567,577,train,2
+869,869,83940,dancing ballet,9ucJ0v4QhEQ,50,60,train,2
+870,870,38324,dancing ballet,44cKmJ00zH8,37,47,train,2
+871,871,498655,dancing ballet,vrASUc00HXg,168,178,train,2
+872,872,515667,dancing ballet,xsRNDo8Upys,56,66,train,2
+873,873,274604,dancing ballet,WLASlhe1DUM,212,222,train,2
+874,874,39084,dancing ballet,4A_OwnpoeZM,3,13,train,2
+875,875,68176,dancing ballet,7x6LxAdMgb0,118,128,train,2
+876,876,329946,dancing ballet,c4k53yZdpOs,82,92,train,2
+877,877,78136,dancing ballet,9BHJ1EeEOVM,23,33,train,2
+878,878,337403,dancing ballet,d2x2QeEZcM4,0,10,train,2
+879,879,445426,dancing ballet,pgeMSCJ9smw,164,174,train,2
+880,880,295366,dancing ballet,YrYWY_rzxOQ,45,55,train,2
+881,881,504605,dancing ballet,w_aEbEqpLdc,854,864,train,2
+882,882,133203,dancing ballet,G5QrXpofOMA,51,61,train,2
+883,883,127384,dancing ballet,FM0JDQf4oTg,124,134,train,2
+884,884,317756,dancing ballet,aWc6NEgTg18,222,232,train,2
+885,885,371879,dancing ballet,hDlnPFt7kX4,23,33,train,2
+886,886,157126,dancing ballet,Iu0VYaR00jA,486,496,train,2
+887,887,467663,dancing ballet,sCSo12Rq9Hs,110,120,train,2
+888,888,505326,dancing ballet,weG5mGcPHCc,55,65,train,2
+889,889,232420,dancing ballet,RU8AbVGctLM,19,29,train,2
+890,890,409123,dancing ballet,la7at6o3Qmk,44,54,train,2
+891,891,211381,dancing ballet,P74dNR-4_CA,3,13,train,2
+892,892,474403,dancing ballet,t-vLqAg6Y-g,171,181,train,2
+893,893,483646,dancing ballet,u56IuYP1G-Y,0,10,train,2
+894,894,511270,dancing ballet,xJWKSHMVh6w,2,12,train,2
+895,895,110432,dancing ballet,DJnpntFSMY4,83,93,train,2
+896,896,376230,dancing ballet,hjRKkYNuQhk,49,59,train,2
+897,897,272333,dancing ballet,W6-2TSRVDbY,23,33,train,2
+898,898,197945,dancing ballet,NbleX8CdG_s,27,37,train,2
+899,899,295732,dancing ballet,Yv0rHyWNVqE,145,155,train,2
+900,900,250629,dancing ballet,T_qw74Hjapw,22,32,train,2
+901,901,151381,dancing ballet,ICZGWB2cfW8,68,78,train,2
+902,902,455100,dancing ballet,qmlbW4tegQo,2,12,train,2
+903,903,221920,dancing ballet,QHJFv9rJdBg,23,33,train,2
+904,904,320396,dancing ballet,arUOKtqZVNE,118,128,train,2
+905,905,495451,dancing ballet,vT42c_Kz1AY,86,96,train,2
+906,906,479989,dancing ballet,tco3sFq5fWo,72,82,train,2
+907,907,96067,dancing ballet,BTqv8CFM7lY,216,226,train,2
+908,908,515601,dancing ballet,xrs6pyhp9IM,118,128,train,2
+909,909,378220,dancing ballet,i036Eb6B80g,72,82,train,2
+910,910,312888,dancing ballet,_tVHVNOR-Qk,29,39,train,2
+911,911,304392,dancing ballet,ZyA7fjrgUqU,72,82,train,2
+912,912,29034,dancing ballet,2sMhBAswJvE,162,172,train,2
+913,913,315280,dancing ballet,aA_dhD2o4XE,77,87,train,2
+914,914,83491,dancing ballet,9qthVgE04-c,95,105,train,2
+915,915,389704,dancing ballet,jISMiTOjJq4,20,30,train,2
+916,916,433778,dancing ballet,oMytUuHPnj8,21,31,train,2
+917,917,527401,dancing ballet,zHF0x2rr20s,153,163,train,2
+918,918,490101,dancing ballet,uqETmpepDf0,33,43,train,2
+919,919,405663,mosh pit dancing,lAGCjy4iMZo,19,29,train,7
+920,920,50726,mosh pit dancing,5h7b-x_MVVo,0,10,train,7
+921,921,203382,mosh pit dancing,OCMDsZofTkU,6,16,train,7
+922,922,20957,mosh pit dancing,1oPp9EJRpw0,22,32,train,7
+923,923,312064,mosh pit dancing,_nWktvYFgm8,9,19,train,7
+924,924,531231,mosh pit dancing,zlGfEJFE4W8,5,15,train,7
+925,925,461901,mosh pit dancing,rYVu6-cCdmM,37,47,train,7
+926,926,441496,mosh pit dancing,pDi1D0ptG3w,63,73,train,7
+927,927,455466,mosh pit dancing,qpZgxTXzCeM,97,107,train,7
+928,928,77091,mosh pit dancing,93NEcAOvW1Y,82,92,train,7
+929,929,8485,mosh pit dancing,0926nXPz1gY,6,16,train,7
+930,930,501097,mosh pit dancing,w9M86NaU3oE,29,39,train,7
+931,931,449282,mosh pit dancing,q7_hhlSyYl8,0,10,train,7
+932,932,31660,mosh pit dancing,3CKvIsaRppM,74,84,train,7
+933,933,487839,mosh pit dancing,u_0QavcfuSo,0,10,train,7
+934,934,234679,mosh pit dancing,Rjdc2gHpS7A,67,77,train,7
+935,935,501230,mosh pit dancing,wAHZdmaLbk0,16,26,train,7
+936,936,260232,mosh pit dancing,UfK2ZcQhq7g,44,54,train,7
+937,937,426312,mosh pit dancing,nXnsOZYTgqI,56,66,train,7
+938,938,196630,mosh pit dancing,NRd_IkNijkI,136,146,train,7
+939,939,366829,mosh pit dancing,gctVkCJrStM,13,23,train,7
+940,940,121008,mosh pit dancing,Ec97D52b8z0,1,11,train,7
+941,941,213409,mosh pit dancing,PJhdBIiAKJw,19,29,train,7
+942,942,253437,mosh pit dancing,TuUTqBfRyog,6,16,train,7
+943,943,328885,mosh pit dancing,byG49p4et-8,0,10,train,7
+944,944,39415,mosh pit dancing,4D-nyQ36d-Y,21,31,train,7
+945,945,447068,mosh pit dancing,ptDiwenUF9s,6,16,train,7
+946,946,199573,mosh pit dancing,NmnnPk4CJmQ,50,60,train,7
+947,947,187044,mosh pit dancing,MK7awygnxjk,4,14,train,7
+948,948,216499,mosh pit dancing,PgK9nEXBgrk,43,53,train,7
+949,949,438443,mosh pit dancing,ovsjDeJuD4A,9,19,train,7
+950,950,297972,mosh pit dancing,ZA3BMZAEkaw,57,67,train,7
+951,951,471559,mosh pit dancing,seMlibM6ilY,3,13,train,7
+952,952,466862,mosh pit dancing,s7QOD9Xq8v0,61,71,train,7
+953,953,322913,mosh pit dancing,bAuBBsNRcuY,1,11,train,7
+954,954,277553,mosh pit dancing,WiIlmUtxe04,1,11,train,7
+955,955,451643,mosh pit dancing,qMndtBAZk_o,43,53,train,7
+956,956,376266,mosh pit dancing,hjgHOPwTb5k,62,72,train,7
+957,957,74271,mosh pit dancing,8hr22_9rXpI,2,12,train,7
+958,958,117548,mosh pit dancing,EBd6yJf5-zQ,66,76,train,7
+959,959,250938,mosh pit dancing,TbkH4juJvxI,16,26,train,7
+960,960,225018,mosh pit dancing,QdeFbG5uMcE,8,18,train,7
+961,961,199851,mosh pit dancing,Nowo1pRH2fY,0,10,train,7
+962,962,39992,mosh pit dancing,4Hp4f7JgUsA,335,345,train,7
+963,963,180152,mosh pit dancing,L_0YoCdTiVY,0,10,train,7
+964,964,40665,mosh pit dancing,4NJe4oRKxOU,10,20,train,7
+965,965,327330,mosh pit dancing,bkU7KncK3e0,96,106,train,7
+966,966,487159,mosh pit dancing,uTdD7ZedX1U,291,301,train,7
+967,967,25422,mosh pit dancing,2OIiC7cyeKE,1,11,train,7
+968,968,229167,mosh pit dancing,R6psIAuwlsY,57,67,train,7
+969,969,70837,mosh pit dancing,8GvdUzkWIPU,13,23,train,7
+970,970,325914,mosh pit dancing,b_Z5tff72lA,11,21,train,7
+971,971,200926,mosh pit dancing,Nxu5GBzsQnI,17,27,train,7
+972,972,335912,mosh pit dancing,cqo2GNo_e3c,23,33,train,7
+973,973,143177,mosh pit dancing,HEM2wPwCNjg,2,12,train,7
+974,974,304995,mosh pit dancing,_1tHSvXN7BM,6,16,train,7
+975,975,321892,mosh pit dancing,b2z51ez006g,10,20,train,7
+976,976,499248,mosh pit dancing,vx9KSNCwzcA,56,66,train,7
+977,977,357510,mosh pit dancing,fUv1fc2GhT0,43,53,train,7
+978,978,330932,mosh pit dancing,cBeCIY-Q0ZA,35,45,train,7
+979,979,175373,mosh pit dancing,L28fu458gDg,59,69,train,7
+980,980,271378,mosh pit dancing,W-jX-dIkHdY,5,15,train,7
+981,981,444562,mosh pit dancing,pb14r_dTU0k,132,142,train,7
+982,982,472413,mosh pit dancing,sk8Ea6x7LWQ,10,20,train,7
+983,983,384873,mosh pit dancing,ikMrQKDFSVg,13,23,train,7
+984,984,480196,mosh pit dancing,teD4aQttd0w,8,18,train,7
+985,985,17297,mosh pit dancing,1JenBZl53VM,3,13,train,7
+986,986,511386,mosh pit dancing,xKK35Bvwj0k,24,34,train,7
+987,987,234175,mosh pit dancing,RgLnFC0CZ-c,379,389,train,7
+988,988,180016,mosh pit dancing,LYgHpvk31E0,35,45,train,7
+989,989,254262,mosh pit dancing,U0D61bowSe4,26,36,train,7
+990,990,427702,mosh pit dancing,nfxBquAEIBA,29,39,train,7
+991,991,120595,mosh pit dancing,E_Bv56ivtrA,0,10,train,7
+992,992,508920,mosh pit dancing,x4g9gtZgVFs,0,10,train,7
+993,993,190674,mosh pit dancing,MlFVbzfgGTY,20,30,train,7
+994,994,106708,mosh pit dancing,Crv1YAnGIt8,0,10,train,7
+995,995,268259,mosh pit dancing,VbYPKGsea0A,11,21,train,7
+996,996,195595,mosh pit dancing,NJEkCbghwj4,12,22,train,7
+997,997,428132,mosh pit dancing,nj2yCq3bv6g,28,38,train,7
+998,998,455955,mosh pit dancing,qtuvqp7EOk8,8,18,train,7
+999,999,465397,mosh pit dancing,rzN845HcWow,28,38,train,7
+1000,1000,466264,mosh pit dancing,s3oJb7cSQHw,6,16,train,7
+1001,1001,437050,mosh pit dancing,okD8iEWApGM,27,37,train,7
+1002,1002,514925,mosh pit dancing,xmL3M52_KqM,0,10,train,7
+1003,1003,485000,mosh pit dancing,uDKeb5p2Xzg,116,126,train,7
+1004,1004,382315,mosh pit dancing,iSiNHQEspC0,453,463,train,7
+1005,1005,416510,mosh pit dancing,mOp2cCtDFYw,40,50,train,7
+1006,1006,275287,mosh pit dancing,WRPegRUu-3w,21,31,train,7
+1007,1007,79651,mosh pit dancing,9MvJrZJCqDk,14,24,train,7
+1008,1008,152899,mosh pit dancing,INs0s1gCueE,0,10,train,7
+1009,1009,528109,mosh pit dancing,zMatNDi5xrc,21,31,train,7
+1010,1010,483063,mosh pit dancing,u1UjHIU8nDo,173,183,train,7
+1011,1011,72055,salsa dancing,8QfZmZnLyw4,17,27,train,9
+1012,1012,126661,salsa dancing,FGAUxHIM7Vw,123,133,train,9
+1013,1013,379177,salsa dancing,i6FIiqWuQw8,392,402,train,9
+1014,1014,118973,salsa dancing,ELWQcgpw594,3,13,train,9
+1015,1015,403193,salsa dancing,ku95xVmlj58,79,89,train,9
+1016,1016,372733,salsa dancing,hJgb0x8NEdU,69,79,train,9
+1017,1017,357774,salsa dancing,fXYay0wSRRc,37,47,train,9
+1018,1018,392453,salsa dancing,jeTZzExJLWk,78,88,train,9
+1019,1019,61293,salsa dancing,73W3rfqWM5E,103,113,train,9
+1020,1020,215386,salsa dancing,P_7fT00j-b4,128,138,train,9
+1021,1021,36793,salsa dancing,3sXj6IuLe2g,19,29,train,9
+1022,1022,429752,salsa dancing,nxNU_gMfj8Q,78,88,train,9
+1023,1023,383314,salsa dancing,iaQDDlyBv2o,112,122,train,9
+1024,1024,50929,salsa dancing,5iheJnimcWw,133,143,train,9
+1025,1025,331416,salsa dancing,cFBMiaGK_sk,136,146,train,9
+1026,1026,15621,salsa dancing,15svNnzDX-Q,80,90,train,9
+1027,1027,223562,salsa dancing,QUVUDBD3hos,5,15,train,9
+1028,1028,161648,salsa dancing,JOg3TZuRsbc,210,220,train,9
+1029,1029,24976,salsa dancing,2KSPdfGBL78,82,92,train,9
+1030,1030,265495,salsa dancing,VG57nYXvFn4,49,59,train,9
+1031,1031,11018,salsa dancing,0UnO2yzfTJA,64,74,train,9
+1032,1032,38255,salsa dancing,448pI8UEPfo,125,135,train,9
+1033,1033,225232,salsa dancing,Qf74x6UvSFw,111,121,train,9
+1034,1034,368626,salsa dancing,gq283uPfqHg,52,62,train,9
+1035,1035,160153,salsa dancing,JDmo7Ap9SnY,134,144,train,9
+1036,1036,35379,salsa dancing,3gqk-U_MJZo,0,10,train,9
+1037,1037,88829,salsa dancing,AYcxMbgV8Js,108,118,train,9
+1038,1038,179136,salsa dancing,LQruyUxKOLY,88,98,train,9
+1039,1039,378226,salsa dancing,i05Nvjce6Qo,76,86,train,9
+1040,1040,513062,salsa dancing,xZUYLSHQyxc,46,56,train,9
+1041,1041,525145,salsa dancing,z1vcy4rftyw,67,77,train,9
+1042,1042,47590,salsa dancing,5IAv2tXBwwc,64,74,train,9
+1043,1043,440039,salsa dancing,p5QZrq9QqQo,110,120,train,9
+1044,1044,309037,salsa dancing,_T5ML6R8IOI,184,194,train,9
+1045,1045,176255,salsa dancing,L7P4n_vkIPI,79,89,train,9
+1046,1046,410656,salsa dancing,lkBx_kL63GU,78,88,train,9
+1047,1047,352212,salsa dancing,esUd9QbPDjE,144,154,train,9
+1048,1048,351958,salsa dancing,eqK9gnEV8Y8,164,174,train,9
+1049,1049,451642,salsa dancing,qMnaNBOygK4,7,17,train,9
+1050,1050,150631,salsa dancing,I7wCl6VgcKo,1,11,train,9
+1051,1051,243519,salsa dancing,SjMFlUyuU_c,133,143,train,9
+1052,1052,160307,salsa dancing,JEeh_nJN7dw,223,233,train,9
+1053,1053,143779,salsa dancing,HIQMPkjV47g,31,41,train,9
+1054,1054,179106,salsa dancing,LQdGrmrPU18,209,219,train,9
+1055,1055,280510,salsa dancing,X4kur9SqhcE,32,42,train,9
+1056,1056,306785,salsa dancing,_DfqBw5UpAQ,340,350,train,9
+1057,1057,382827,salsa dancing,iXA2s3gHiYg,1550,1560,train,9
+1058,1058,148334,salsa dancing,HrRNCfGQhc8,0,10,train,9
+1059,1059,512494,salsa dancing,xUEC56tUI-o,30,40,train,9
+1060,1060,230687,salsa dancing,RGbB-0Tblhg,98,108,train,9
+1061,1061,348634,salsa dancing,eQfwAxatHns,28,38,train,9
+1062,1062,21091,salsa dancing,1pOt6qdepZk,3,13,train,9
+1063,1063,484327,salsa dancing,u9Fl1yMSwls,160,170,train,9
+1064,1064,195834,salsa dancing,NL7oXcVdBUU,43,53,train,9
+1065,1065,73874,salsa dancing,8eWW4Fnsf2M,153,163,train,9
+1066,1066,96085,salsa dancing,BTyc_mTSIjI,235,245,train,9
+1067,1067,129802,salsa dancing,FfBG5rwlA8Q,223,233,train,9
+1068,1068,467425,salsa dancing,sB565aokZdE,53,63,train,9
+1069,1069,86185,salsa dancing,ABFr19c7oXM,10,20,train,9
+1070,1070,282811,salsa dancing,XKiMWDo4fF0,26,36,train,9
+1071,1071,366750,salsa dancing,gc9nrumFlmM,18,28,train,9
+1072,1072,393051,salsa dancing,jiSe8vhCWC4,84,94,train,9
+1073,1073,358717,salsa dancing,fdSNeGl_ELY,66,76,train,9
+1074,1074,359420,salsa dancing,fiXg7RF925E,196,206,train,9
